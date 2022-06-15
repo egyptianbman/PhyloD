@@ -23,7 +23,7 @@ These tools (and many others) are included in this release. The ones below have 
 
 ### Compiling the code
 
-_We aim to get the source code up in the coming weeks._
+_We aim to get the source code up in the coming weeks -- give or take a decade._
 
 ### Contact
 
